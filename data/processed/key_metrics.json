@@ -1,0 +1,20 @@
+{
+  "source_rows": 71044,
+  "modeling_rows": 71008,
+  "columns": 25,
+  "missing_review_text_rows": 36,
+  "missing_rating_rows": 0,
+  "good_review_count": 61108,
+  "bad_review_count": 9900,
+  "bad_review_rate": 0.13942091031996395,
+  "good_review_rate": 0.860579089680036,
+  "unique_brands": 391,
+  "unique_products": 598,
+  "unique_category_strings": 579,
+  "train_rows": 56806,
+  "test_rows": 14202,
+  "max_words": 20000,
+  "max_sequence_length": 150,
+  "cnn_lstm_test_loss": 0.2578,
+  "cnn_lstm_test_accuracy": 0.9204
+}

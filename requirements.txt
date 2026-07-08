@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+numpy
+pandas
+pytest
+scikit-learn
+streamlit
+tensorflow
+openpyxl

@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+*.pyc
+models/*.keras
+models/*.h5

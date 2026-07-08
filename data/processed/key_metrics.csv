@@ -1,0 +1,2 @@
+source_rows,modeling_rows,columns,missing_review_text_rows,missing_rating_rows,good_review_count,bad_review_count,bad_review_rate,good_review_rate,unique_brands,unique_products,unique_category_strings,train_rows,test_rows,max_words,max_sequence_length,cnn_lstm_test_loss,cnn_lstm_test_accuracy
+71044,71008,25,36,0,61108,9900,0.13942091031996395,0.860579089680036,391,598,579,56806,14202,20000,150,0.2578,0.9204
