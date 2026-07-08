@@ -1,0 +1,2 @@
+model,test_loss,test_accuracy,epochs,batch_size,max_words,max_sequence_length,test_rows
+CNN-LSTM hybrid,0.3063141107559204,0.9127587676048279,5,64,20000,150,14202
